@@ -145,20 +145,32 @@
 
 <br/><hr/>
 
-<h2 align="center">📈 GitHub Activity</h2>
-
+<h2 align="center">🏆 Achievements</h2>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=koti42&show_icons=true&theme=radical&hide_border=true&include_all_commits=false" height="160" alt="koti42 github stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koti42&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="top languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=koti42&theme=git_dark&no-frame=true&margin-w=15&row=1&column=7" alt="koti42 trophies" />
   </a>
 </div>
 
 <br/>
 
+<h2 align="center">📈 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koti42&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="koti42 activity graph" />
+</div>
+
+<br/>
+
+<h2 align="center">📊 Stats Overview</h2>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koti42&theme=radical" alt="profile details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=koti42&style=flat-square&color=blue&label=Profile+Views" alt="profile views" />
+</div>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=koti42&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
