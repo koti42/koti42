@@ -148,14 +148,15 @@
 <h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koti42&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koti42&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koti42&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koti42&layout=compact&theme=dark&hide_border=true" height="160" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=koti42&theme=react&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=koti42&theme=dark&hide_border=true" alt="streak" />
 </div>
 
 <br/>
