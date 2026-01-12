@@ -1,84 +1,105 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQFq4G_AygKijw/profile-displayphoto-crop_800_800/B4DZo6btoaJEAI-/0/1761916935258?e=1769644800&v=beta&t=0P25BCB7EWXTN4uuuhPvsNGZokZtk2a_caiEjq1HUas" align="center" style="border-radius: 50%;" height="180" width="180" />
-  
-  <h1>Hi there, I'm Mehmet! <img src="https://media.giphy.com/media/hvRJCLFzcuMiCvVuyw/giphy.gif" width="30px"></h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=300&section=header&text=Mehmet%20Kucukcelebi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20Laravel%20Wizard&descAlignY=51&descAlign=62" />
+</div>
 
-  <h3>Full Stack Developer | Laravel Enthusiast | Ankara, TR</h3>
-  
-  <p>
-    I'm a passionate developer working remotely since 2013. I specialize in building robust web applications using the <b>Laravel</b> ecosystem and modern frontend technologies.
-  </p>
-
-  <p>
-  🌱 I’m currently deepening my knowledge in <b>Flutter</b> and <b>React</b><br>
-  💬 Ask me about <b>PHP, Laravel, and Backend Architecture</b><br>
-  ⚡ Fun fact: <b>I explicitly prefer tabs over spaces!</b>
-  </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Software+Craftsman+since+2013;Laravel+%26+PHP+Expert;Currently+learning+Flutter+%26+React;Tabs+over+Spaces+always!+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
-## 🛠️ My Skill Set
+<div align="center">
+  I specialize in building robust web applications using the <b>Laravel ecosystem</b>. <br/>
+  Based in <b>Ankara, TR</b> 🇹🇷 | Working Remotely 🌍
+</div>
 
-<table>
+<br/>
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h3>Frontend & Mobile</h3>
-      <a href="https://vuejs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" /></a>
-      <a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
-      <a href="https://flutter.dev/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>
-      <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>
-      <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
-      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
+    <td align="center" width="50%">
+      <h3>🏢 Kurumsal Yönetim Sistemi</h3>
+      <p>Laravel & Vue.js kullanılarak geliştirilmiş, çok kiracılı (multi-tenant) bir yönetim paneli.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
     </td>
-    <td align="center" width="33%">
-      <h3>Backend & Database</h3>
-      <a href="https://laravel.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" /></a>
-      <a href="https://www.php.net/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>
-      <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>
+    <td align="center" width="50%">
+      <h3>🛒 E-Ticaret API Altyapısı</h3>
+      <p>Yüksek trafikli e-ticaret siteleri için RESTful API ve mikroservis mimarisi.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
-    <td align="center" width="33%">
-      <h3>DevOps & Tools</h3>
-      <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
-      <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a>
-      <a href="https://www.linux.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
-      <a href="https://www.nginx.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" /></a>
-      <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📱 Mobil Sipariş Uygulaması</h3>
+      <p>Flutter ile geliştirilen, anlık takip özellikli kurye ve sipariş uygulaması.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    </td>
+    <td align="center" width="50%">
+      <h3>☁️ CRM & Otomasyon</h3>
+      <p>Müşteri ilişkilerini yöneten, AWS üzerinde çalışan ölçeklenebilir CRM çözümü.</p>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 📈 GitHub Stats
+<h2 align="center">⚡ Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koti42&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0D1117" alt="koti42's github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koti42&layout=compact&hide_border=true&theme=react&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koti42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="koti42's stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koti42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koti42&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </div>
 
 <br/>
-
-## 🤝 Connect with me
 
 <div align="center">
   <a href="https://linkedin.com/in/mehmet-küçükçelebi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/koti42" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/mehmet.kucukcelebi/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Follow_on-Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:seninmailin@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-GMAIL-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=koti42&&style=flat-square&color=blue" align="center" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koti42&&style=flat-square&color=blue" align="center" />
 </div>
