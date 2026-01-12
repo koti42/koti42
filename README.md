@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.hizliresim.com/65yykcu.png" align="center" height="240" width="240" />
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFq4G_AygKijw/profile-displayphoto-crop_800_800/B4DZo6btoaJEAI-/0/1761916935258?e=1769644800&v=beta&t=0P25BCB7EWXTN4uuuhPvsNGZokZtk2a_caiEjq1HUas" align="center" height="240" width="240" />
 </div>  
   
 
