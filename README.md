@@ -148,19 +148,25 @@
 <h2 align="center">📈 GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koti42&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=koti42&show_icons=true&theme=radical&hide_border=true&include_all_commits=false" height="160" alt="koti42 github stats" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koti42&layout=compact&theme=dark&hide_border=true" height="160" alt="languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koti42&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="top languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=koti42&theme=dark&hide_border=true" alt="streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=koti42&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=koti42&&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=koti42&style=flat-square&color=blue&label=Profile+Views" alt="profile views" />
 </div>
